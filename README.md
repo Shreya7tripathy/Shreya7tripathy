@@ -2,7 +2,8 @@
 - 👀 I’m interested in python(data science) and java dsa
 - 🌱 I’m currently learning python (data scince) and dsa java
 - 💞️ I’m looking to collaborate on some good projects
-- 📫 How to reach me @Shreya7tripathy
+- 📫 How to reach me
+   ``` @Shreya7tripathy ```
   
 ### CONNECT WITH ME
 
