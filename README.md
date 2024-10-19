@@ -45,6 +45,8 @@
 
 - 👩‍💻 **Contributed in GirlScript Summer of Code (GSSoC) 2024**
 
+  ![Github Trophy](https://github-profile-trophy.vercel.app/?username=Shreya7tripathy&theme=discord)
+
 ---
 
 
