@@ -51,7 +51,7 @@
 ### 📈 Contribution Graph:
 
 ![Shreya's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shreya7tripathy&theme=react-dark&hide_border=true)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shreya7tripathy&theme=algolia)](https://git.io/streak-stats)
 ---
 
 
