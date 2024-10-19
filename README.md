@@ -22,13 +22,6 @@
 ---
 
 
-
-### 🛠️ Tech Stack:
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-
-
-
 ### 📊 GitHub Stats:
 
 ![Shreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreya7tripathy&show_icons=true&theme=radical)
