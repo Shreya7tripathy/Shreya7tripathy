@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=7e2266&center=true&vCenter=true&size=40&width=900&height=80&lines=👋+Hello+!!+I'm+Shreya+Tripathy!" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=99347f&center=true&vCenter=true&size=40&width=900&height=80&lines=👋+Hello+!!+I'm+Shreya+Tripathy!" />
 </div>
 
 <img src="https://raw.githubusercontent.com/alo7lika/PyVerse/refs/heads/main/Images/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
