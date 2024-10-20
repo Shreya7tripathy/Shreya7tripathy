@@ -81,7 +81,7 @@ When I’m not coding, I enjoy learning about emerging technologies and collabor
 
 
   
-### CONNECT WITH ME
+### CONNECT WITH ME 😊 
 
 <a href="https://www.linkedin.com/in/shreyatripathy7">
   <img align="left" src="https://github.com/user-attachments/assets/91a936a6-0a68-4523-b9dc-3657749246e8" alt="icon | LinkedIn" width="30px"/> <!-- Increased size -->
