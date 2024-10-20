@@ -12,7 +12,7 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Shreya7tripathy&color=blue&style=flat-square" alt="Profile views" width="150"/>
   <a href="https://github.com/Shreya7tripathy">
-    <img src="https://img.shields.io/github/followers/Shreya7tripathy?label=Follow&style=social" alt="GitHub followers" width="150"/>
+    <img src="https://img.shields.io/github/followers/Shreya7tripathy?label=Follow&style=social" alt="GitHub followers" width="100"/>
   </a>
 </p>
 
