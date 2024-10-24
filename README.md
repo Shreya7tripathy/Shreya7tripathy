@@ -48,7 +48,7 @@
 - 🎉 **Top 10 in HackerWar 5.0**
 - 🌟 **Contributed in Hacktoberfest 2024 (All badges completed)**
 ## Hoplin Badges
-  <img src="https://github.com/user-attachments/assets/0e4eadf3-b70f-42da-bf0c-918c26a1bb71"  height="200px">
+  <img src="https://github.com/user-attachments/assets/0e4eadf3-b70f-42da-bf0c-918c26a1bb71"  height="180px">
 
 
 - 👩‍💻 **Contributed in GirlScript Summer of Code (GSSoC) 2024**
